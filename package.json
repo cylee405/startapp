@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-startapp",
+  "version": "0.0.1",
+  "description": "Cordova plugin for startapp",
+  "cordova": {
+    "id": "cordova-plugin-service-startapp",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "tagfans",
+  "license": "ISC"
+}
